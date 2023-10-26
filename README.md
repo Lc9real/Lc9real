@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lc9real
-- 👀 I’m interested in .Minecraft mods
-- 🌱 I’m currently learning Minecraft modding
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning to code Agents with LLMs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: Lc9#8246
 
